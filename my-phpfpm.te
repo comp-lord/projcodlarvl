@@ -1,0 +1,11 @@
+
+module my-phpfpm 1.0;
+
+require {
+	type user_home_t;
+	type httpd_t;
+	class file write;
+}
+
+#============= httpd_t ==============
+allow httpd_t user_home_t:file write;

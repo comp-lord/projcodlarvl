@@ -1,0 +1,363 @@
+--2018-05-02 23:17:24--  https://www.heartofgld.com/live-with-me/24?subId=phone-psychic
+A resolver www.heartofgld.com (www.heartofgld.com)...178.170.71.243
+A conectar www.heartofgld.com (www.heartofgld.com)|178.170.71.243|:443... conectado.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: não especificado [text/html]
+Saving to: ‘www.heartofgld.com/live-with-me/24?subId=phone-psychic’
+
+www.heartofgld.com/live-with-me/24?subId=phone-psych     [<=>                                                                                                                   ]       0  --.-KB/s               www.heartofgld.com/live-with-me/24?subId=phone-psych     [ <=>                                                                                                                  ]  18,37K  --.-KB/s    in 0,05s   
+
+2018-05-02 23:17:24 (400 KB/s) - ‘www.heartofgld.com/live-with-me/24?subId=phone-psychic’ saved [18815]
+
+A carregar robots.txt; por favor, ignore erros.
+--2018-05-02 23:17:24--  https://www.heartofgld.com/robots.txt
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 23 [text/plain]
+Saving to: ‘www.heartofgld.com/robots.txt’
+
+www.heartofgld.com/robots.txt                          0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/robots.txt                        100%[=====================================================================================================================>]      23  --.-KB/s    in 0s      
+
+2018-05-02 23:17:25 (21,3 MB/s) - ‘www.heartofgld.com/robots.txt’ saved [23/23]
+
+--2018-05-02 23:17:25--  https://www.heartofgld.com/assets/21ad5cb0/css/bootstrap.css?v=1469461915
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 146010 (143K) [text/css]
+Saving to: ‘www.heartofgld.com/assets/21ad5cb0/css/bootstrap.css?v=1469461915’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/21ad5cb0/css/bootstrap.css 100%[=====================================================================================================================>] 142,59K  --.-KB/s    in 0,1s    
+
+2018-05-02 23:17:25 (1,27 MB/s) - ‘www.heartofgld.com/assets/21ad5cb0/css/bootstrap.css?v=1469461915’ saved [146010/146010]
+
+--2018-05-02 23:17:25--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/jquery-ui.css?v=1426258092
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 35212 (34K) [text/css]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/jquery-ui.css?v=1426258092’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]  34,39K  --.-KB/s    in 0,01s   
+
+2018-05-02 23:17:25 (2,49 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/jquery-ui.css?v=1426258092’ saved [35212/35212]
+
+--2018-05-02 23:17:25--  https://www.heartofgld.com/assets/d61d6f08/countdown2/jquery.countdown.css?v=1523880666
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 879 [text/css]
+Saving to: ‘www.heartofgld.com/assets/d61d6f08/countdown2/jquery.countdown.css?v=1523880666’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/d61d6f08/countdown2/jquery 100%[=====================================================================================================================>]     879  --.-KB/s    in 0s      
+
+2018-05-02 23:17:25 (36,3 MB/s) - ‘www.heartofgld.com/assets/d61d6f08/countdown2/jquery.countdown.css?v=1523880666’ saved [879/879]
+
+--2018-05-02 23:17:25--  https://www.heartofgld.com/assets/d61d6f08/ts.css?v=1523880666
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 4284 (4,2K) [text/css]
+Saving to: ‘www.heartofgld.com/assets/d61d6f08/ts.css?v=1523880666’
+
+www.heartofgld.com/assets/d61d6f08/ts.css?v=15238806   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/d61d6f08/ts.css?v=15238806 100%[=====================================================================================================================>]   4,18K  --.-KB/s    in 0,001s  
+
+2018-05-02 23:17:25 (2,82 MB/s) - ‘www.heartofgld.com/assets/d61d6f08/ts.css?v=1523880666’ saved [4284/4284]
+
+--2018-05-02 23:17:25--  https://www.heartofgld.com/assets/d61d6f08/tsresponsive.css?v=1523880666
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 3990 (3,9K) [text/css]
+Saving to: ‘www.heartofgld.com/assets/d61d6f08/tsresponsive.css?v=1523880666’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/d61d6f08/tsresponsive.css? 100%[=====================================================================================================================>]   3,90K  --.-KB/s    in 0,001s  
+
+2018-05-02 23:17:25 (2,72 MB/s) - ‘www.heartofgld.com/assets/d61d6f08/tsresponsive.css?v=1523880666’ saved [3990/3990]
+
+--2018-05-02 23:17:25--  https://www.heartofgld.com/assets/3e9363/jquery.js?v=1463765083
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 257551 (252K) [application/javascript]
+Saving to: ‘www.heartofgld.com/assets/3e9363/jquery.js?v=1463765083’
+
+www.heartofgld.com/assets/3e9363/jquery.js?v=1463765   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/3e9363/jquery.js?v=1463765 100%[=====================================================================================================================>] 251,51K  --.-KB/s    in 0,1s    
+
+2018-05-02 23:17:25 (2,15 MB/s) - ‘www.heartofgld.com/assets/3e9363/jquery.js?v=1463765083’ saved [257551/257551]
+
+--2018-05-02 23:17:25--  https://www.heartofgld.com/assets/e7c0b664/yii.js?v=1496673221
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 19956 (19K) [application/javascript]
+Saving to: ‘www.heartofgld.com/assets/e7c0b664/yii.js?v=1496673221’
+
+www.heartofgld.com/assets/e7c0b664/yii.js?v=14966732   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/e7c0b664/yii.js?v=14966732 100%[=====================================================================================================================>]  19,49K  --.-KB/s    in 0,006s  
+
+2018-05-02 23:17:25 (3,05 MB/s) - ‘www.heartofgld.com/assets/e7c0b664/yii.js?v=1496673221’ saved [19956/19956]
+
+--2018-05-02 23:17:25--  https://www.heartofgld.com/assets/f6208ea3/jquery-ui.js?v=1426258092
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 470596 (460K) [application/javascript]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/jquery-ui.js?v=1426258092’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/jquery-ui.js?v=14 100%[=====================================================================================================================>] 459,57K  2,45MB/s    in 0,2s    
+
+2018-05-02 23:17:25 (2,45 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/jquery-ui.js?v=1426258092’ saved [470596/470596]
+
+--2018-05-02 23:17:25--  https://www.heartofgld.com/assets/21ad5cb0/js/bootstrap.js?v=1469461915
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 69707 (68K) [application/javascript]
+Saving to: ‘www.heartofgld.com/assets/21ad5cb0/js/bootstrap.js?v=1469461915’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/21ad5cb0/js/bootstrap.js?v 100%[=====================================================================================================================>]  68,07K  --.-KB/s    in 0,02s   
+
+2018-05-02 23:17:25 (2,75 MB/s) - ‘www.heartofgld.com/assets/21ad5cb0/js/bootstrap.js?v=1469461915’ saved [69707/69707]
+
+--2018-05-02 23:17:25--  https://www.heartofgld.com/js/Dialog.js
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 2150 (2,1K) [application/javascript]
+Saving to: ‘www.heartofgld.com/js/Dialog.js’
+
+www.heartofgld.com/js/Dialog.js                        0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/js/Dialog.js                      100%[=====================================================================================================================>]   2,10K  --.-KB/s    in 0,001s  
+
+2018-05-02 23:17:25 (3,72 MB/s) - ‘www.heartofgld.com/js/Dialog.js’ saved [2150/2150]
+
+--2018-05-02 23:17:25--  https://www.heartofgld.com/assets/d61d6f08/countdown2/jquery.plugin.min.js?v=1523880666
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 3178 (3,1K) [application/javascript]
+Saving to: ‘www.heartofgld.com/assets/d61d6f08/countdown2/jquery.plugin.min.js?v=1523880666’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/d61d6f08/countdown2/jquery 100%[=====================================================================================================================>]   3,10K  --.-KB/s    in 0,006s  
+
+2018-05-02 23:17:25 (548 KB/s) - ‘www.heartofgld.com/assets/d61d6f08/countdown2/jquery.plugin.min.js?v=1523880666’ saved [3178/3178]
+
+--2018-05-02 23:17:25--  https://www.heartofgld.com/assets/d61d6f08/countdown2/jquery.countdown.min.js?v=1523880666
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 13975 (14K) [application/javascript]
+Saving to: ‘www.heartofgld.com/assets/d61d6f08/countdown2/jquery.countdown.min.js?v=1523880666’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/d61d6f08/countdown2/jquery 100%[=====================================================================================================================>]  13,65K  --.-KB/s    in 0,006s  
+
+2018-05-02 23:17:26 (2,33 MB/s) - ‘www.heartofgld.com/assets/d61d6f08/countdown2/jquery.countdown.min.js?v=1523880666’ saved [13975/13975]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/d61d6f08/chat_text.js?v=1523880666
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 2465 (2,4K) [application/javascript]
+Saving to: ‘www.heartofgld.com/assets/d61d6f08/chat_text.js?v=1523880666’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/d61d6f08/chat_text.js?v=15 100%[=====================================================================================================================>]   2,41K  --.-KB/s    in 0,001s  
+
+2018-05-02 23:17:26 (3,58 MB/s) - ‘www.heartofgld.com/assets/d61d6f08/chat_text.js?v=1523880666’ saved [2465/2465]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/d61d6f08/ts.js?v=1523880666
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 15000 (15K) [application/javascript]
+Saving to: ‘www.heartofgld.com/assets/d61d6f08/ts.js?v=1523880666’
+
+www.heartofgld.com/assets/d61d6f08/ts.js?v=152388066   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/d61d6f08/ts.js?v=152388066 100%[=====================================================================================================================>]  14,65K  --.-KB/s    in 0,006s  
+
+2018-05-02 23:17:26 (2,51 MB/s) - ‘www.heartofgld.com/assets/d61d6f08/ts.js?v=1523880666’ saved [15000/15000]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.eot
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 20127 (20K) [application/vnd.ms-fontobject]
+Saving to: ‘www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.eot’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons- 100%[=====================================================================================================================>]  19,66K  --.-KB/s    in 0,006s  
+
+2018-05-02 23:17:26 (3,22 MB/s) - ‘www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.eot’ saved [20127/20127]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.eot?
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 20127 (20K) [application/vnd.ms-fontobject]
+Saving to: ‘www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.eot?’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons- 100%[=====================================================================================================================>]  19,66K  --.-KB/s    in 0,007s  
+
+2018-05-02 23:17:26 (2,73 MB/s) - ‘www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.eot?’ saved [20127/20127]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.woff2
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 18028 (18K)
+Saving to: ‘www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.woff2’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons- 100%[=====================================================================================================================>]  17,61K  --.-KB/s    in 0,009s  
+
+2018-05-02 23:17:26 (1,99 MB/s) - ‘www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.woff2’ saved [18028/18028]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.woff
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 23424 (23K) [application/font-woff]
+Saving to: ‘www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.woff’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons- 100%[=====================================================================================================================>]  22,88K  --.-KB/s    in 0,005s  
+
+2018-05-02 23:17:26 (4,56 MB/s) - ‘www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.woff’ saved [23424/23424]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.ttf
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 45404 (44K) [application/font-sfnt]
+Saving to: ‘www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.ttf’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons- 100%[=====================================================================================================================>]  44,34K  --.-KB/s    in 0,01s   
+
+2018-05-02 23:17:26 (3,45 MB/s) - ‘www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.ttf’ saved [45404/45404]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.svg
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 108738 (106K) [image/svg+xml]
+Saving to: ‘www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.svg’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons- 100%[=====================================================================================================================>] 106,19K  --.-KB/s    in 0,04s   
+
+2018-05-02 23:17:26 (2,96 MB/s) - ‘www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.svg’ saved [108738/108738]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_flat_75_ffffff_40x100.png
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 208 [image/png]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_flat_75_ffffff_40x100.png’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]     208  --.-KB/s    in 0s      
+
+2018-05-02 23:17:26 (176 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_flat_75_ffffff_40x100.png’ saved [208/208]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 280 [image/png]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]     280  --.-KB/s    in 0s      
+
+2018-05-02 23:17:26 (9,78 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png’ saved [280/280]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 262 [image/png]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]     262  --.-KB/s    in 0s      
+
+2018-05-02 23:17:26 (8,69 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png’ saved [262/262]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_75_dadada_1x400.png
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 262 [image/png]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_75_dadada_1x400.png’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]     262  --.-KB/s    in 0s      
+
+2018-05-02 23:17:26 (8,76 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_75_dadada_1x400.png’ saved [262/262]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_65_ffffff_1x400.png
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 207 [image/png]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_65_ffffff_1x400.png’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]     207  --.-KB/s    in 0s      
+
+2018-05-02 23:17:26 (169 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_65_ffffff_1x400.png’ saved [207/207]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 335 [image/png]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]     335  --.-KB/s    in 0s      
+
+2018-05-02 23:17:26 (13,6 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png’ saved [335/335]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 332 [image/png]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]     332  --.-KB/s    in 0s      
+
+2018-05-02 23:17:26 (11,9 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png’ saved [332/332]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_222222_256x240.png
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 6922 (6,8K) [image/png]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_222222_256x240.png’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]   6,76K  --.-KB/s    in 0,002s  
+
+2018-05-02 23:17:26 (3,50 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_222222_256x240.png’ saved [6922/6922]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_888888_256x240.png
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 6999 (6,8K) [image/png]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_888888_256x240.png’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]   6,83K  --.-KB/s    in 0,003s  
+
+2018-05-02 23:17:26 (1,93 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_888888_256x240.png’ saved [6999/6999]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_454545_256x240.png
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 6992 (6,8K) [image/png]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_454545_256x240.png’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]   6,83K  --.-KB/s    in 0,002s  
+
+2018-05-02 23:17:26 (2,97 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_454545_256x240.png’ saved [6992/6992]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_2e83ff_256x240.png
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 4549 (4,4K) [image/png]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_2e83ff_256x240.png’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]   4,44K  --.-KB/s    in 0,001s  
+
+2018-05-02 23:17:26 (7,48 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_2e83ff_256x240.png’ saved [4549/4549]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_cd0a0a_256x240.png
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 4549 (4,4K) [image/png]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_cd0a0a_256x240.png’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]   4,44K  --.-KB/s    in 0,001s  
+
+2018-05-02 23:17:26 (3,26 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-icons_cd0a0a_256x240.png’ saved [4549/4549]
+
+--2018-05-02 23:17:26--  https://www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png
+A reutilizar a conexão existente com www.heartofgld.com:443.
+Pedido HTTP enviado, a aguardar resposta...200 OK
+Tamanho: 212 [image/png]
+Saving to: ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png’
+
+                          www.heartofgld.com/assets/   0%[                                                                                                                      ]       0  --.-KB/s               www.heartofgld.com/assets/f6208ea3/themes/smoothness 100%[=====================================================================================================================>]     212  --.-KB/s    in 0s      
+
+2018-05-02 23:17:27 (189 MB/s) - ‘www.heartofgld.com/assets/f6208ea3/themes/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png’ saved [212/212]
+
+FINISHED --2018-05-02 23:17:27--
+Total wall clock time: 2,6s
+Downloaded: 35 files, 1,3M in 0,6s (2,11 MB/s)
+Converting links in www.heartofgld.com/assets/21ad5cb0/fonts/glyphicons-halflings-regular.woff2... nada para fazer.
+Converting links in www.heartofgld.com/live-with-me/24?subId=phone-psychic... 15-4
+Converting links in www.heartofgld.com/assets/f6208ea3/themes/smoothness/jquery-ui.css?v=1426258092... 16-0
+Converting links in www.heartofgld.com/assets/d61d6f08/countdown2/jquery.countdown.css?v=1523880666... nada para fazer.
+Converting links in www.heartofgld.com/assets/21ad5cb0/css/bootstrap.css?v=1469461915... 6-0
+Converting links in www.heartofgld.com/assets/d61d6f08/ts.css?v=1523880666... nada para fazer.
+Converting links in www.heartofgld.com/assets/d61d6f08/tsresponsive.css?v=1523880666... nada para fazer.
+Converted links in 7 files in 0,007 seconds.

@@ -1,0 +1,10 @@
+
+module my-ping 1.0;
+
+require {
+	type container_t;
+	class icmp_socket create;
+}
+
+#============= container_t ==============
+allow container_t self:icmp_socket create;

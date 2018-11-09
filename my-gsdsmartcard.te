@@ -1,0 +1,11 @@
+
+module my-gsdsmartcard 1.0;
+
+require {
+	type cert_t;
+	type xdm_t;
+	class file map;
+}
+
+#============= xdm_t ==============
+allow xdm_t cert_t:file map;
